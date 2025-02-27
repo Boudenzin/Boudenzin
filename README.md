@@ -11,7 +11,7 @@
 
 ### Technologies I'm Working On:
 
-<img src = "https://skillicons.dev/icons?i=python,java,css,git,idea,vscode,html,react,javascript&perline=7" />
+<img src = "https://skillicons.dev/icons?i=python,java,css,git,idea,vscode,html,react,javascript,kotlin&perline=7" />
 
 
 
