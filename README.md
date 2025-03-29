@@ -8,6 +8,7 @@
  𝐈'𝐦 𝐫𝐞𝐚𝐥𝐥𝐲 𝐞𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩 𝐧𝐞𝐰 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐥𝐞𝐚𝐫𝐧 𝐦𝐨𝐫𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 
 ![Romildo GitHub Stats](https://github-readme-stats.vercel.app/api?username=boudenzin&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boudenzin&layout=compact&theme=dark)
 
 ### Technologies I'm Working On:
 
