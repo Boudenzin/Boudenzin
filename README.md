@@ -11,8 +11,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boudenzin&show_icons=true&theme=dark" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boudenzin&layout=compact&theme=dark" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boudenzin&show_icons=true&theme=transparent" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boudenzin&layout=compact&theme=transparent" width="40%"/>
 </div>
 
 ---
