@@ -11,8 +11,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boudenzin&show_icons=true&theme=transparent" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boudenzin&layout=compact&theme=transparent" width="40%"/>
+  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api?username=boudenzin&show_icons=true&theme=transparent" width="49%"/>
+  <img src="https://github-readme-stats-ebon-ten-19.vercel.app/api/top-langs/?username=boudenzin&layout=compact&theme=transparent" width="40%"/>
 </div>
 
 ---
