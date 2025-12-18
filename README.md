@@ -20,7 +20,7 @@
 ### 🧰 Technologies I'm Working On:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,css,git,idea,vscode,html,react,nodejs,javascript,kotlin,androidstudio,mysql,firebase,postgresql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,css,git,idea,vscode,html,react,nodejs,javascript,kotlin,androidstudio,mysql,firebase,postgresql,latex,obsidian,bootstrap,docker,gradle,nginx&perline=8" />
 </div>
 
 ---
